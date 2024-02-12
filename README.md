@@ -1,0 +1,1 @@
+LLM helps identify AI-generated content by leveraging state-of-the-art language models. Whether you’re combating misinformation or simply curious, this project achieved an impressive accuracy of 72% in the Kaggle competition named LLM - Detect AI Generated Texts. Contributions are welcome!
